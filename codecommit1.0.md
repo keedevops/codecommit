@@ -55,6 +55,8 @@ git status
 git merge newrepo
 
 ```
+Now the changes are merged with the main branch 
+Creating a file in repo adding, commiting, pushing, branching in codecommit
 
 
 
