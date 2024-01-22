@@ -58,7 +58,15 @@ git merge newrepo
 Now the changes are merged with the main branch 
 Creating a file in repo adding, commiting, pushing, branching in codecommit
 
+To create SNS Notification for the updates in the github create a email subscription
+![Screenshot Capture - 2024-01-22 - 14-24-42](https://github.com/keedevops/codecommit/assets/155215036/16b8581d-4873-4a84-aa9e-376367b37864)
 
+
+Select  **create subscription**  
+
+![Screenshot Capture - 2024-01-22 - 14-26-40](https://github.com/keedevops/codecommit/assets/155215036/0bbf3528-01d9-40c7-86e3-5f083672c50c)
+
+Select email protocol and end point as an email id then select create subscription, now make changes in the github and the updates will be reflected in the endpoint mail id
 
 
 
